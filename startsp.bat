@@ -1,0 +1,1 @@
+start Quake4.exe  +set com_allowConsole 1 +set logfile 2
